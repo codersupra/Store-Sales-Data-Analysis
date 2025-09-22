@@ -1,6 +1,6 @@
-# Superstore Sales Analysis
+# Store Sales Analysis
 
-This project is a deep dive into the sales data of a fictional superstore, where I've leveraged a powerful trio of tools—**Python**, **SQL**, and **Power BI**—to uncover key business insights. The goal was to transform raw, messy data into a clear and compelling story about sales performance, customer behavior, and product trends.
+This project is a deep dive into the sales data of a fictional store, where I've leveraged a powerful trio of tools—**Python**, **SQL**, and **Power BI**—to uncover key business insights. The goal was to transform raw, messy data into a clear and compelling story about sales performance, customer behavior, and product trends.
 
 I tackled the entire data pipeline, starting with data cleaning and transformation in Python. From there, I moved the cleaned data into a SQL database to perform targeted queries and exploratory analysis. The final and most exciting step was bringing it all to life in Power BI, where I designed and built interactive dashboards.
 
